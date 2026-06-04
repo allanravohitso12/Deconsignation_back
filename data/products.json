@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "designation": "65cl",
+    "pu": 18000
+  },
+  {
+    "id": 2,
+    "designation": "100cl",
+    "pu": 16400
+  },
+  {
+    "id": 3,
+    "designation": "30cl",
+    "pu": 17600
+  },
+  {
+    "id": 4,
+    "designation": "33cl sod",
+    "pu": 35500
+  },
+  {
+    "id": 5,
+    "designation": "100cl sod",
+    "pu": 40000
+  }
+]
